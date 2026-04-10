@@ -3,3 +3,6 @@
 dataset/augmented_images
 dataset/original_images
 dataset/dataset_final
+
+sign_detection/runs
+*.pt
