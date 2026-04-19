@@ -1,5 +1,5 @@
 # Train/Val Split paths
-path: /home/zuru-ubuntu/Documents/Chan/visual-sign-based-localization/dataset/dataset_final
+path: /home/zuru-ubuntu/Documents/Chan/visual-sign-based-localization/1_data_augmentation/split_dataset
 train: images/train              # train images (relative to path)
 val: images/val                  # val images (relative to path)
 test: images/test                # test images (relative to path)

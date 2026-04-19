@@ -1,8 +1,15 @@
+# Ignore VS Code settings
 .vscode
 
-dataset/augmented_images
-dataset/original_images
-dataset/dataset_final
+0_datasets/original_images
 
-sign_detection/runs
+_data_generation
+
+
+1_data_augmentation/augmented_dataset
+1_data_augmentation/split_dataset
+
+
+# Ignore model checkpoints and training logs
+2_sign_detection/runs
 *.pt
