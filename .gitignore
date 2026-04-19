@@ -13,3 +13,6 @@ _data_generation
 # Ignore model checkpoints and training logs
 2_sign_detection/runs
 *.pt
+
+
+3_text_recognition/OCR_Dataset
